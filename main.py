@@ -1,1 +1,1 @@
-print(division(54,2))
+print(division(nombre1,nombre2)
