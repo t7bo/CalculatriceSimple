@@ -1,2 +1,3 @@
 def division(nombre1,nombre2):
-    return nombre1 / nombre2
+    resultat =  nombre1 / nombre2
+    return resultat
