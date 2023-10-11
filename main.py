@@ -14,5 +14,7 @@ elif operateur == "-":
     print(soustraction(nombre1,nombre2))
 elif operateur == "*":
     print(multiplication(nombre1,nombre2))
+elif operateur == "V":
+    print(racine_carree(nombre1,nombre2))
 else:
     print("Erreur d'opérateur")
