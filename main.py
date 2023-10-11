@@ -2,6 +2,7 @@ from division import division
 from addition import addition
 from soustraction import soustraction
 from multiplication import multiplication
+from sqrt import racine_carree
 
 nombre1, operateur, nombre2 = float(input("Entre un premier nombre : ")), input("choisis ton opérateur de calcul : "), float(input("Entre un deuxième nombre : "))
 
